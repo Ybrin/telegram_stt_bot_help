@@ -1,0 +1,24 @@
+{
+  "update_id": 940972365,
+  "message": {
+    "message_id": 3,
+    "from": {
+      "id": 83441420,
+      "first_name": "Koray",
+      "username": "Ybrin"
+    },
+    "chat": {
+      "id": 83441420,
+      "first_name": "Koray",
+      "username": "Ybrin",
+      "type": "private"
+    },
+    "date": 1492106483,
+    "text": "/convertspeech",
+    "entities": [{
+      "type": "bot_command",
+      "offset": 0,
+      "length": 14
+    }]
+  }
+}
